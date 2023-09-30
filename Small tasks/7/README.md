@@ -1,1 +1,1 @@
-
+Zaimplementuj sortowanie metodą HeapSort. Sortowanie ma się odbywać od NAJWIĘKSZEGO DO NAJMNIEJSZEGO elementu "od razu" (nie można kopiować algorytmu z wykładu z odwróceniem tablicy). Dodaj komentarze do kodu uwzględniając zmiany, które były potrzebne, aby algorytm sortował odwrotnie w stosunku do wersji z wykładu.
