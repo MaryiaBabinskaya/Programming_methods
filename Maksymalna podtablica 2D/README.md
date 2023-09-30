@@ -6,6 +6,6 @@ a[i..j][k..l] o maksymalnej nieujemnej sumie elementów s(i, j, k, l), obliczane
 W przypadku, gdy elementy tablicy są mniejsze od zera, maksymalna podtablica jest pusta
  i s(i, j, k, l) = 0.
  
-Napisz w Javie program działający w czasie O( (max(n, m))3 ), który oblicza maksymalną wartość
+Napisz w Javie program działający w czasie O( (max(n, m))^3 ), który oblicza maksymalną wartość
 s(i, j, k, l) oraz wyznacza maksymalną podtablicę mst = a[i..j][k..l] o najmniejszej liczbie elementów,
 której indeksy i, j, k, l tworzą ciąg leksykograficznie najmniejszy. 
