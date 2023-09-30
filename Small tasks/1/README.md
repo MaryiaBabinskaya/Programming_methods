@@ -1,1 +1,1 @@
-
+Zaimplementuj klasę Vector
